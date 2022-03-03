@@ -20,6 +20,8 @@ Oi! Eu sou César e atualmente trabalho na DBC company e estou estudando a área
   <img align="center" alt="Cesar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="Cesar-Steam" height="30" width="40" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
   </div> -->
+<!--     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="">
+</div> -->
   
   ##
   
