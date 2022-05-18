@@ -12,7 +12,7 @@ Oi! Eu sou César e atualmente trabalho na DBC company e estou estudando a área
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarLuchesi&layout=compact&langs_count=7&theme=tokyonight"/>
 </div> -->
   
-  <div style="display: inline_block" align="center"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="Cesar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,11 +20,7 @@ Oi! Eu sou César e atualmente trabalho na DBC company e estou estudando a área
   <img align="center" alt="Cesar-Typescript" height="30" width="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
   <img align="center" alt="Cesar-styledocmponents" height="30" width="40" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> 
   <img align="center" alt="Cesar-redux" height="30" width="40" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> 
-<!--   <img align="center" alt="Cesar-Steam" height="30" width="40" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-  </div> -->
-<!--     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="">
-</div> -->
-  
+
   ##
   
   <div align:"center">
