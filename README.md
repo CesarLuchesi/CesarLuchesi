@@ -21,7 +21,7 @@ Oi! Eu sou César e atualmente trabalho na DBC company e estou estudando a área
   <img align="center" alt="Cesar-styledocmponents" height="30" width="40" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> 
   <img align="center" alt="Cesar-redux" height="30" width="40" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> 
 <img align="center" alt="Cesar-bootstrap" height="30" width="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
-
+</div>
   ##
   
   <div align:"center">
