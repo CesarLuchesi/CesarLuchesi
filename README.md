@@ -8,7 +8,7 @@ Oi! Eu sou César e atualmente trabalho na DBC company e sou programador na áre
 
 <div align="center">
   <a href="https://github.com/CesarLuchesi">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CesarLuchesi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="150em" margin-right="20px" src="https://github-readme-stats.vercel.app/api?username=CesarLuchesi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarLuchesi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
