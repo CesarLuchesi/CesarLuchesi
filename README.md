@@ -1,9 +1,8 @@
 Hi! I am César Luchesi and welcome to my profile  🤗
 
-Oi! Eu sou César e atualmente trabalho na DBC company e sou programador na área de front-end 💻
+Oi! Eu sou o César e atualmente trabalho na DBC company como Desenvolvedor 💻
 
-- 🔭 Hoje trabalho com desenvolvimento front-end
-- 🌱 Estudando VTEX, JavaScript, React e Node
+- 🔭 Desenvolvedor Full-Stack
 - 📫 Contato pelo e-mail: cesarfluchesi123@gmail.com
 
 <div align="center">
