@@ -1,6 +1,6 @@
 Hi! I am César Luchesi and welcome to my profile  🤗
 
-Oi! Eu sou o César e atualmente trabalho na DBC company como Desenvolvedor 💻
+Oi! Eu sou o César seja bem-vindo ao meu perfil 💻
 
 - 🔭 Desenvolvedor Full-Stack
 - 📫 Contato pelo e-mail: cesarfluchesi123@gmail.com
