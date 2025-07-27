@@ -1,9 +1,7 @@
 Hi! I am César Luchesi and welcome to my profile  🤗
 
-Oi! Eu sou o César seja bem-vindo ao meu perfil 💻
-
-- 🔭 Desenvolvedor Full-Stack
-- 📫 Contato pelo e-mail: cesarfluchesi123@gmail.com
+- 🔭 Full-Stack Developer
+- 📫 e-mail: cesarfluchesi123@gmail.com
 
 <div align="center">
   <a href="https://github.com/CesarLuchesi">
