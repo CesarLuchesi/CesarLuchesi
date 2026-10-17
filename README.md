@@ -27,14 +27,20 @@
 
 **Data & Machine Learning**
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
+  </tr>
+</table>
 
 ## 📈 GitHub Stats
 
