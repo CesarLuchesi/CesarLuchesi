@@ -1,33 +1,70 @@
-Hi! I am César Luchesi and welcome to my profile  🤗
+<div align="center">
 
-- 🔭 Full-Stack Developer
-- 📫 e-mail: cesarfluchesi123@gmail.com
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi!+I'm+C%C3%A9sar+Luchesi+%F0%9F%A4%97;Full+Stack+Developer+%7C+E-commerce;Master's+student+%40+UNICAMP;Data+Engineering+%26+Data+Science" alt="Typing SVG" />
+
+<a href="mailto:cesarluchesi123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/cesarluchesi/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=CesarLuchesi&style=for-the-badge&color=bd93f9&label=Profile+views" />
+
+</div>
+
+## 👨‍💻 About me
+
+- 🔭 Full Stack Developer at **Quality Digital**, building e-commerce for brands like Fast Shop, Americanas and Bosch (LATAM)
+- ⚡ Day-to-day with **React, Next.js, Node.js, GraphQL** and **VTEX FastStore**
+- 🎓 Master's student in Technology at **UNICAMP**
+- 📊 Growing in **Data Engineering & Data Science** — Python, ML and data visualization
+- 📫 Reach me at **cesarfluchesi123@gmail.com**
+
+## 🛠️ Tech Stack
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,sass,styledcomponents,materialui,bootstrap&perline=11" />
+
+**Back-end, testing & tools**
+
+<img src="https://skillicons.dev/icons?i=nodejs,graphql,py,fastapi,jest,vitest,docker,gcp,git,vscode&perline=10" />
+
+**Data & Machine Learning**
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/CesarLuchesi">
- <img height="150em" margin-right="20px" src="https://github-readme-stats.vercel.app/api?username=CesarLuchesi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarLuchesi&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  <div style="display: inline_block", "justify-content: space-between" ><br>
-  <img align="center" alt="Cesar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cesar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cesar-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
-  <img align="center" alt="Cesar-styledocmponents" height="30" width="70" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> 
-  <img align="center" alt="Cesar-redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"> 
-  <img align="center" alt="Cesar-bootstrap" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />   
-  <img align="center" alt="Cesar-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />  
-  <img align="center" alt="Cesar-graphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" />
-  <img align="center" alt="Cesar-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-  
-          
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CesarLuchesi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarLuchesi&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=CesarLuchesi&theme=dracula&hide_border=true" />
+
 </div>
 
-  ##
-  
-  <div align:"center">
-  <a href = "mailto:cesarfluchesi123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cesarluchesi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+## 📅 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CesarLuchesi&theme=dracula&hide_border=true&area=true" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CesarLuchesi/CesarLuchesi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CesarLuchesi/CesarLuchesi/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/CesarLuchesi/CesarLuchesi/output/github-snake.svg" />
+</picture>
+
+</div>
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Phrase Nets** | Full-stack text visualization: builds a word network graph from unstructured text based on user-defined relationships | Python, JavaScript, Docker |
+| **Credit Risk Forecast** | MLP vs XGBoost comparison for default detection, tuned with Grid Search and evaluated by F1-Score | Python, Keras, Scikit-learn, XGBoost |
